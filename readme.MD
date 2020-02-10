@@ -1,5 +1,7 @@
 # Exemplu proiect template pentru laboratoarele ISP
 
+This is a student repository test!
+
 Dependentele proiectlui:
 - Maven 3 
 - Java 1.8 
